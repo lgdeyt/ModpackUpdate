@@ -1,1 +1,2 @@
-~1.0.0:\Implementation of Quick Update~
+1.0.0:
+Implementation of Quick Update
